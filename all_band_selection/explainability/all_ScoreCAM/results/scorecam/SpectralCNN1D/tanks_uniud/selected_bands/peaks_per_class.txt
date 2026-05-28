@@ -1,0 +1,17 @@
+--- CLASSFICA DELLE BANDE PIU' IMPORTANTI PER MATERIALE ---
+Ordinamento: Score Decrescente (Dal più importante al meno)
+
+MATERIALE: 0 - Background
+Rank  | Banda      | Score (Importanza)  
+---------------------------------------------
+1     | 9          | 1.0000
+
+=============================================
+
+MATERIALE: 1 - Metal
+Rank  | Banda      | Score (Importanza)  
+---------------------------------------------
+1     | 0          | 0.9689
+
+=============================================
+

@@ -1,0 +1,23 @@
+# Libraries detected from the Python files in this workspace
+# Install with: pip install -r libraries_to_install.txt
+imageio
+importlib_resources
+matplotlib
+mrmr_selection
+numpy
+opencv-python
+pandas
+pillow
+plotly
+grad-cam
+scikit-learn
+scipy
+seaborn
+spectral
+streamlit
+tifffile
+torch
+torchsummary
+torchvision
+tqdm
+xgboost
